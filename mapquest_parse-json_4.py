@@ -1,6 +1,8 @@
 import urllib.parse
 import requests
 
+
+
 main_api = "https://www.mapquestapi.com/directions/v2/route?"
 orig = "Washington, D.C."
 dest = "Baltimore, Md"
